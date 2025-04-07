@@ -1,0 +1,108 @@
+Relatório da Estrutura de Cursos:
+==================================================
+
+Curso 1:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+S2 Estruturas de Dados e Algoritmos Fundamentais 2024 (ESPAÇO CENTRAL)
+  URL: https://elearning.uab.pt/course/view.php?id=21605
+--------------------------------------------------
+Curso 2:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+S2 Estruturas de Dados e Algoritmos Fundamentais 2024 03
+  URL: https://elearning.uab.pt/course/view.php?id=21603
+--------------------------------------------------
+Curso 3:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Introdução à Inteligência Artificial (Espaço Central) 24/25
+  URL: https://elearning.uab.pt/course/view.php?id=15979
+--------------------------------------------------
+Curso 4:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Introdução à Inteligência Artificial 24/25 03
+  URL: https://elearning.uab.pt/course/view.php?id=21152
+--------------------------------------------------
+Curso 5:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Investigação Operacional 2024 (espaço central)
+  URL: https://elearning.uab.pt/course/view.php?id=21411
+--------------------------------------------------
+Curso 6:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Investigação Operacional 2024 03
+  URL: https://elearning.uab.pt/course/view.php?id=21409
+--------------------------------------------------
+Curso 7:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Linguagens de Programação (Espaço Central) 2024
+  URL: https://elearning.uab.pt/course/view.php?id=21548
+--------------------------------------------------
+Curso 8:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Linguagens de Programação 2024 03
+  URL: https://elearning.uab.pt/course/view.php?id=21546
+--------------------------------------------------
+Curso 9:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Linguagens e Computação 2024 (espaço central)
+  URL: https://elearning.uab.pt/course/view.php?id=20286
+--------------------------------------------------
+Curso 10:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Linguagens e Computação 2024 03
+  URL: https://elearning.uab.pt/course/view.php?id=20284
+--------------------------------------------------
+Curso 11:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Raciocínio e Representação do Conhecimento 2024 (espaço central)
+  URL: https://elearning.uab.pt/course/view.php?id=21437
+--------------------------------------------------
+Curso 12:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Raciocínio e Representação do Conhecimento 2024 02
+  URL: https://elearning.uab.pt/course/view.php?id=21436
+--------------------------------------------------
+Curso 13:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Sistemas Distribuídos - Espaço Central
+  URL: https://elearning.uab.pt/course/view.php?id=18774
+--------------------------------------------------
+Curso 14:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Sistemas Distribuídos 2024 02
+  URL: https://elearning.uab.pt/course/view.php?id=21561
+--------------------------------------------------
+Curso 15:
+  Nome curto: |
+  Nome completo: Disciplina está marcada com estrela
+Nome da disciplina
+Laboratório de Desenvolvimento de Software 2024 (Espaço Central)
+  URL: https://elearning.uab.pt/course/view.php?id=21403
+--------------------------------------------------
